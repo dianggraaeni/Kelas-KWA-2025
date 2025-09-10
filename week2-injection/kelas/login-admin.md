@@ -7,6 +7,7 @@ Tingkat Kesulitan: ⭐⭐ (2/6)
 Deskripsi: Log in dengan akun administrator pengguna. Challenge ini bertujuan untuk mengeksploitasi kerentanan SQL Injection pada formulir login untuk mendapatkan akses ke akun admin.
 
 ## Link Resource
+https://demo.owasp-juice.shop/#/
 
 ## Jawaban + Bukti
 ### a. Step-by-step
@@ -77,3 +78,4 @@ Berhasil Login sebagai Admin:
 
 
 <img width="313" height="348" alt="image" src="https://github.com/user-attachments/assets/265f33bf-fedf-4306-9670-47cb7bcde52c" />
+
